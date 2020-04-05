@@ -3,4 +3,6 @@
 
 - Please reference for the Project Overview [here](https://github.com/cu-ecen-5013/final-project-AydBlot/wiki/Project-Overview)
 
+- Please reference for the Project Schedule [here](https://github.com/cu-ecen-5013/final-project-AydBlot/wiki/Project-Schedule)
+
 - Please reference for Application and Module Code [here](https://github.com/cu-ecen-5013/final-project-ssssNick)
