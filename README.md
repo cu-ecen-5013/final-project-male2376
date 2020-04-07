@@ -1,6 +1,10 @@
-<h1>Martin Lennartz Final Project</h1>
-<h2>ECEN 5013: Adv Embedded Software Development
-University of Colorado; Spring 2020 </h2>
+<h1>
+  Martin Lennartz Final Project
+</h1>
+<h2> 
+  * ECEN 5013: Adv Embedded Software Development
+  * University of Colorado; Spring 2020
+</h2>
 
 - Please reference for the Project Overview [here](https://github.com/cu-ecen-5013/final-project-AydBlot/wiki/Project-Overview)
 
