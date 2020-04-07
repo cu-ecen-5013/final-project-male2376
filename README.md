@@ -1,4 +1,4 @@
-# Martin Lennartz Final Project
+<h1>Martin Lennartz Final Project</h1>
 ## ECEN 5013: Adv Embedded Software Development
 ## University of Colorado; Spring 2020
 
