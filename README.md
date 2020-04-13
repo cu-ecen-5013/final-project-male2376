@@ -10,3 +10,5 @@
 - Please reference for the Project Schedule [here](https://github.com/cu-ecen-5013/final-project-AydBlot/wiki/Project-Schedule)
 
 - Please reference for Application and Module Code [here](https://github.com/cu-ecen-5013/final-project-ssssNick)
+
+- Please reference for Buildroot repo [here](https://github.com/cu-ecen-5013/final-project-AydBlot)
