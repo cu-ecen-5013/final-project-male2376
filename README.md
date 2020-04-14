@@ -5,10 +5,10 @@
   ECEN 5013 AESD Spring 2020
 </h2>
 
-- Please reference for the Project Overview [here](https://github.com/cu-ecen-5013/final-project-AydBlot/wiki/Project-Overview)
+- Reference for the Project Overview [here](https://github.com/cu-ecen-5013/final-project-AydBlot/wiki/Project-Overview)
 
-- Please reference for the Project Schedule [here](https://github.com/cu-ecen-5013/final-project-AydBlot/wiki/Project-Schedule)
+- Reference for the Project Schedule [here](https://github.com/cu-ecen-5013/final-project-AydBlot/wiki/Project-Schedule)
 
-- Please reference for Application and Module Code [here](https://github.com/cu-ecen-5013/final-project-ssssNick)
+- Reference for Application and Module Code [here](https://github.com/cu-ecen-5013/final-project-ssssNick)
 
-- Please reference for Buildroot repo [here](https://github.com/cu-ecen-5013/final-project-AydBlot)
+- Reference for Buildroot repo [here](https://github.com/cu-ecen-5013/final-project-AydBlot)
